@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hacker on Alejandro Cruz Martínez</title>
+    <link>https://pwnedshell.github.io/tags/hacker/</link>
+    <description>Recent content in hacker on Alejandro Cruz Martínez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 10 Jul 2022 22:39:59 +0200</lastBuildDate><atom:link href="https://pwnedshell.github.io/tags/hacker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qué es un hacker</title>
+      <link>https://pwnedshell.github.io/posts/hacker/</link>
+      <pubDate>Sun, 10 Jul 2022 22:39:59 +0200</pubDate>
+      
+      <guid>https://pwnedshell.github.io/posts/hacker/</guid>
+      <description>Presentación La mayoría de las veces en que la gente habla sobre hackers existe cierta ambigüedad. Uno no sabe si la palabra es usada con cognotación negativa o positiva. ¿Es realmente importante? ¿Son todos los términos equitativos? Bien, para intentar responder estas preguntas os expongo un ensayo que realicé hace un tiempo. Espero que os guste y sirva de ayuda.
+Desarrollo La palabra hacker1 hoy en día toma diferentes significados dependiendo del contexto y la idea que se tenga de ella.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alejandro Cruz Martínez</title>
+    <link>https://pwnedshell.github.io/tags/</link>
+    <description>Recent content in Tags on Alejandro Cruz Martínez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 10 Jul 2022 22:39:59 +0200</lastBuildDate><atom:link href="https://pwnedshell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ensayo</title>
+      <link>https://pwnedshell.github.io/tags/ensayo/</link>
+      <pubDate>Sun, 10 Jul 2022 22:39:59 +0200</pubDate>
+      
+      <guid>https://pwnedshell.github.io/tags/ensayo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hacker</title>
+      <link>https://pwnedshell.github.io/tags/hacker/</link>
+      <pubDate>Sun, 10 Jul 2022 22:39:59 +0200</pubDate>
+      
+      <guid>https://pwnedshell.github.io/tags/hacker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
