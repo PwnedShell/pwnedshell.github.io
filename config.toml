@@ -1,10 +1,12 @@
-baseURL = "https://pwnedshell.github.io/"
+baseURL = "https://pwnedshell.github.io"
 defaultContentLanguage = "es"
 languageCode = "es"
 
 title = "Alejandro Cruz Martínez"
 
 theme = "gokarna"
+
+publishDir = "docs"
 
 enableRobotsTXT = true
 
