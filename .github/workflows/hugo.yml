@@ -1,0 +1,23 @@
+name: Push to GitHub Pages on push to main
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v1
+
+      - name: Deploy the site
+        uses: benmatselby/hugo-deploy-gh-pages@main
+        env:
+          HUGO_VERSION: 0.92.2
+          HUGO_PUBLISH_DIR: docs
+          TARGET_REPO: PwnedShell/pwnedshell.github.io
+          TARGET_BRANCH: main
+          TOKEN: ${{ secrets.HUGO }}
+          CNAME: pwnedshell.github.io
